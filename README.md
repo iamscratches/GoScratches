@@ -1,0 +1,1 @@
+It's a fun roam game where u roam around ur own city collecting cherries and super cherries in ur area and showing ur skills off to ur friends. It's a small step for people who feel to lazy to get out of their home to have a chance exploring the outside world while playing an exciting game.
