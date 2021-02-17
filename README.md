@@ -3,7 +3,7 @@ It's a fun roam game where u roam around ur own city collecting cherries and sup
 **Do make sure to check it out if you are reading the code and give your adventure skills a go!!**
 
 **1. GoScratches icon**
-![](output/output14.JPEG)
+![](output/output14.jpeg)
 
 **2. Splash screen**
 ![](output/output1.JPEG)
