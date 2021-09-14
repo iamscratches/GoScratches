@@ -45,14 +45,14 @@ public class StatusScreen extends AppCompatActivity {
     protected void onRestart() {
         super.onRestart();
         collectData();// Collect sharedRef data and set data in the views
-        Toast.makeText(this,"onRestart",Toast.LENGTH_LONG).show();
+//        Toast.makeText(this,"onRestart",Toast.LENGTH_LONG).show();
     }
 
     @Override
     protected void onResume() {
         super.onResume();
         collectData();// Collect sharedRef data and set data in the views
-        Toast.makeText(this,"onResume",Toast.LENGTH_LONG).show();
+//        Toast.makeText(this,"onResume",Toast.LENGTH_LONG).show();
     }
 
     void defineViews(){
