@@ -10,7 +10,7 @@ import android.view.WindowManager;
 
 public class SplashScreen extends AppCompatActivity {
 
-    private int SPLASH_SCREEN =5000;
+    private int SPLASH_SCREEN =3000;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
